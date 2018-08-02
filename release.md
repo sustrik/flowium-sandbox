@@ -1,4 +1,4 @@
-# Frobnicator release
+This is Flowium template for Frobnicator release process
 
 ## Version info ~> info
 
