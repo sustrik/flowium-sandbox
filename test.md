@@ -4,11 +4,11 @@
 * Value2 ~> value2
 * Value3 ~> value3
 
-# Step2 ~> step2
+# Step2
 
 dfssjfk
 
-# Step3 ~> step3
+# Step3
 
 dfkdl
 dfdf
