@@ -5,12 +5,7 @@ Be frank with yourself. Do we **really** need a new datacenter?
 Anyway, if we do, notify the procurement to order machines and the
 construction dept. to start building the damn thing.
 
-# Choose a place ~> place: decide
-
-It should be close to water for cooling. Also, the power should be cheap
-in the region.
-
-# Build it ~> build: place
+# Build it ~> build: decide
 
 Build the walls first. Then the roof.
 
