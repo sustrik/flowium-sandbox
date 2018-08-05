@@ -28,3 +28,7 @@ Contact the vendor once in a while to make sure there are no slippages.
 # Install the machines ~> install: delivery grid
 
 Machines go to racks. You also have to plug the cables in.
+
+# Flip the switch ~> switch: install
+
+Wait for a stormy night. The flip the big switch.
